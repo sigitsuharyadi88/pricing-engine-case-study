@@ -1,0 +1,7 @@
+# Folder sistem yang tidak perlu diunggah
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.idea/
+.DS_Store
